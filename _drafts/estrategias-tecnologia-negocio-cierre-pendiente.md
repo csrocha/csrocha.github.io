@@ -32,7 +32,7 @@ nota: "Los dos [[BLOCK]] ya están publicados en main. Falta: conclusión, recom
 ## Acciones y recomendaciones
 
 <!--
-  ACCIÓN 1 — Primera y más importante:
+  ACCIÓN 1 — Sentarse con el equipo de IT sin agenda:
 
   Tomarse el tiempo con el equipo de IT: sentarse con ellos, hablar de la situación actual
   y escuchar cómo ven el futuro de la compañía. Sin prejuicios, sin agenda preestablecida.
@@ -47,7 +47,25 @@ nota: "Los dos [[BLOCK]] ya están publicados en main. Falta: conclusión, recom
   genuina, sin el peso de los resultados ni los plazos. Ese es el ambiente donde
   aparecen las ideas que realmente mueven el negocio.
 
-  ACCIÓN 2 — Preguntas concretas que el dueño debería hacerse hoy:
+  ACCIÓN 2 — De la conversación al mapa:
+
+  En esa misma conversación, o en una siguiente, empezar a identificar qué parte
+  de lo que surgió se puede resolver in-house y qué hay que buscar afuera.
+  No hace falta que sea exhaustivo ni preciso al principio — va a marear, y está bien.
+  La clave es anotarlo todo. Ese registro, aunque parezca caótico, va a ser el insumo
+  más valioso para los próximos pasos.
+
+  El objetivo no es llegar a conclusiones todavía. Es iniciar una dinámica donde
+  el equipo de IT salga de su rol de ejecutor de tickets y empiece a buscar problemas
+  y proponer soluciones. Que se integre con el resto de la empresa no como soporte,
+  sino como parte de la comunidad que construye el negocio.
+
+  Este es un momento de flotar en miles de ideas. La priorización viene después.
+  Lo que nunca se hace es descartar — una idea que hoy parece imposible puede ser
+  la más importante en seis meses, cuando el contexto cambie o aparezca la herramienta
+  correcta para llevarla adelante.
+
+  ACCIÓN 3 — Preguntas concretas que el dueño debería hacerse hoy:
 
   1. ¿Sé exactamente qué software usa mi empresa y para qué?
   2. ¿Cuánto me costaría cambiar de proveedor tecnológico si quisiera?
