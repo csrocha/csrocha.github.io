@@ -6,7 +6,7 @@ author: csrocha
 audience: "Dueños de empresa"
 ---
 
-*La idea central de este artículo es simple: delegar la tecnología es delegar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
+*La idea central de este artículo es simple: Confiar la tecnología a terceros equivale a entregar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
 
 ---
 
