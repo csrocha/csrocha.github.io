@@ -84,3 +84,20 @@ nota: "Los dos [[BLOCK]] ya están publicados en main. Falta: conclusión, recom
   - "Tu equipo de tecnología no es raro, es diferente" → para trabajar mejor con IT
   - "Liderazgo técnico: arquitectura de intención" → para los que lideran equipos técnicos
 -->
+
+## Cierre
+
+<!--
+  No prometer nada. No terminar con un llamado a la acción entusiasta ni con una garantía
+  de resultados. Este cierre es humano y honesto.
+
+  Lo que pase después de estas conversaciones depende de ellos — del equipo de IT,
+  de su disposición, de sus ideas. Y depende del dueño, de su capacidad de escuchar
+  y de aceptar propuestas que quizás no entendía que eran posibles.
+
+  No es tiempo perdido. Es exactamente lo contrario: es pensar un poco más lejos,
+  pero actuando ya. Sin esperar a tener todo claro, sin esperar al momento perfecto.
+
+  Tono final: sobrio, sin adornos. Como una conversación entre adultos que saben
+  que el trabajo que viene es difícil, y que vale la pena igual.
+-->
