@@ -1,0 +1,15 @@
+title: "csrocha"
+description: "Tecnología, estrategia y negocios"
+url: "https://csrocha.github.io"
+baseurl: ""
+
+author: "csrocha"
+lang: "es"
+
+permalink: /:year/:month/:day/:title/
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
