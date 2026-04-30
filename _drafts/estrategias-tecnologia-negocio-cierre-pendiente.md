@@ -32,7 +32,22 @@ nota: "Los dos [[BLOCK]] ya están publicados en main. Falta: conclusión, recom
 ## Acciones y recomendaciones
 
 <!--
-  Preguntas concretas que el dueño debería hacerse hoy:
+  ACCIÓN 1 — Primera y más importante:
+
+  Tomarse el tiempo con el equipo de IT: sentarse con ellos, hablar de la situación actual
+  y escuchar cómo ven el futuro de la compañía. Sin prejuicios, sin agenda preestablecida.
+  Con la única intención de que emerja una dirección donde la automatización libere tiempo
+  para la innovación.
+
+  Es la primera acción porque todo lo demás depende de ella. Sin esa conversación,
+  cualquier decisión tecnológica — comprar, construir, tercerizar — se toma a ciegas.
+  El equipo de IT tiene información que no aparece en ningún reporte.
+
+  Tono: no presentarlo como una reunión de trabajo. Presentarlo como una conversación
+  genuina, sin el peso de los resultados ni los plazos. Ese es el ambiente donde
+  aparecen las ideas que realmente mueven el negocio.
+
+  ACCIÓN 2 — Preguntas concretas que el dueño debería hacerse hoy:
 
   1. ¿Sé exactamente qué software usa mi empresa y para qué?
   2. ¿Cuánto me costaría cambiar de proveedor tecnológico si quisiera?
@@ -40,9 +55,6 @@ nota: "Los dos [[BLOCK]] ya están publicados en main. Falta: conclusión, recom
      Ese proceso es mi diferencial — y debería construirse in-house.
   4. ¿Mi equipo de tecnología entiende el negocio, o solo ejecuta tickets?
   5. ¿Tengo tecnología propia o solo licencias de terceros?
-
-  Cerrar con la promesa de la serie: en los próximos artículos vamos a explorar
-  cada una de estas preguntas en profundidad.
 -->
 
 ## Anticipo de la serie
