@@ -6,6 +6,7 @@ author: csrocha
 audience: "Dueños de empresa"
 categories: [estrategia, tecnologia, negocios]
 status: published
+image: /assets/images/soledad.jpg
 hilo: tecnologia-negocio
 references:
   - christensen-innovators-dilemma
