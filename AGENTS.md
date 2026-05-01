@@ -29,7 +29,13 @@ Actúa como un Editor Senior de TI con enfoque industrial y estratégico. Tu obj
 - [ ] **Nomenclatura:** El archivo está nombrado como `YYYY-MM-DD-nombre-post.md` si se mueve a `_posts`.
 
 ### Rigor y Conectividad
-- [ ] **Sustento:** Cada afirmación técnica audaz tiene una referencia (link externo o cita).
+- [ ] **Sustento de afirmaciones:** Toda afirmación que no sea obvia o que pueda cuestionarse debe estar respaldada por exactamente uno de estos tres tipos de evidencia:
+  1. **Referencia externa** — una entrada de `_data/references.yml` citada inline como `*(Autor, Año)*`.
+  2. **Razonamiento interno** — la afirmación se deduce de argumentos previos dentro del mismo artículo; el lector puede verificarla sin salir del texto.
+  3. **Experiencia personal** — el autor lo vivió y lo narra en primera persona con suficiente detalle para ser creíble.
+
+  Si ninguno de los tres aplica, la afirmación debe suavizarse (de categórico a observacional: "suelen" → "terminaron, en la práctica") o eliminarse. No está permitido dejarla como está.
+
 - [ ] **Autocontención:** Si el tema es complejo, se menciona el requisito de lectura previa o se explica el concepto base brevemente.
 
 ## Instrucciones de Evaluación
@@ -38,6 +44,12 @@ Cuando analices un archivo en `_drafts`:
 2. Ejecuta el checklist.
 3. Propone cambios específicos línea por línea para los puntos no cumplidos.
 4. Sugiere 3 títulos alternativos que sean atractivos pero profesionales.
+
+### Auditoría de afirmaciones sin sustento
+Como parte del paso 3, recorrés el artículo e identificás cada afirmación que no sea obvia. Para cada una, determinás si está respaldada por referencia externa, razonamiento interno o experiencia personal. Las que no tengan ningún respaldo las listás con:
+- La afirmación textual
+- Por qué no tiene sustento
+- Tres opciones: (a) referencia existente en `_data/references.yml` que podría aplicar, (b) cómo suavizarla para que sea defensible sin cita, (c) si corresponde eliminarla.
 
 ## Pautas de Redacción y Estilo (Español)
 
