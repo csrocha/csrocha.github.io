@@ -20,6 +20,8 @@ references:
   - johnson-adjacent-possible
   - davenport-mission-critical
   - gartner-postmodern-erp
+  - andreessen-software-eating-world
+  - carr-big-switch
 ---
 
 *La idea central de este artículo es simple: Confiar la tecnología a terceros equivale a entregar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
@@ -48,7 +50,7 @@ Y así podemos listar miles de herramientas. Un ejemplo claro es OpenAI, que no 
 
 Tener personal de tecnología puede ser un problema de recursos humanos, pero el mayor de los problemas es la confianza: ¿cómo es posible que un software creado por un equipo interno logre mejores resultados que uno cerrado? ¿Acaso el software enlatado no está preparado para tu industria? ¿Por qué elegir una tecnología sobre otra?
 
-Hay decisiones que un zapatero, un albañil, o un administrador de empresas no tienen por qué tomar, al menos no fueron entrenados en eso: es un mundo que no les concierne bajo las expectativas de lo que es el negocio. Pero la realidad es clara, no hay sector donde la informática no deje su impronta.
+Hay decisiones que un zapatero, un albañil, o un administrador de empresas no tienen por qué tomar, al menos no fueron entrenados en eso: es un mundo que no les concierne bajo las expectativas de lo que es el negocio. *(Carr, 2008)* Pero la realidad es clara, no hay sector donde la informática no deje su impronta. *(Andreessen, 2011)*
 
 Para entender adónde estamos debemos viajar al pasado, al menos unos 20 años. Es aquí donde muchos tuvieron pésimas experiencias implementando "enlatados" y buscaron "informáticos" en sobrinos, hijos o vecinos *(Shadow IT)* — soluciones a lo que no podían tener acceso, ya sea por el costo de su puesta a punto, o simplemente porque no abarcaba sus necesidades reales.
 
@@ -122,6 +124,8 @@ No es tiempo perdido. Es pensar un poco más lejos, pero actuando ya.
 
 ## Referencias y lecturas recomendadas
 
+- Andreessen, M. (2011). Why Software Is Eating the World. *The Wall Street Journal*.
+- Carr, N. (2008). *The Big Switch: Rewiring the World, from Edison to Google*. W. W. Norton & Company.
 - Christensen, C. M. (1997). *The Innovator's Dilemma*. Harvard Business School Press.
 - Johnson, S. (2010). *Where Good Ideas Come From: The Natural History of Innovation*. Riverhead Books.
 - Conway, M. E. (1968). How Do Committees Invent? *Datamation*, 14(4), 28–31.

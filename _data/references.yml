@@ -2,6 +2,58 @@
 # Accesibles en templates con: site.data.references
 # En el frontmatter de cada post declarar los ids usados: references: [id1, id2]
 
+- id: andreessen-software-eating-world
+  type: article
+  authors:
+    - family: Andreessen
+      given: Marc
+  year: 2011
+  title: "Why Software Is Eating the World"
+  source: The Wall Street Journal
+  tags: [strategy, technology, software, industry-transformation, build-vs-buy]
+  quote: >
+    "Six decades into the computer revolution... software is eating the world.
+    Every company in every industry is being transformed by software."
+  usage: >
+    La referencia canónica de la industria para argumentar que ya no existe
+    un "sector tecnológico" separado: todas las industrias se están convirtiendo
+    en empresas de software, quieran o no. Usar cuando se afirme que "no hay
+    sector donde la informática no deje su impronta."
+
+- id: carr-big-switch
+  type: book
+  authors:
+    - family: Carr
+      given: Nicholas
+  year: 2008
+  title: "The Big Switch: Rewiring the World, from Edison to Google"
+  publisher: W. W. Norton & Company
+  tags: [strategy, technology, utility-computing, history, industry-transformation]
+  usage: >
+    Carr compara la informática con la electrificación: el dueño de fábrica
+    de 1910 no quería ser experto en dinamos, pero se vio obligado a entender
+    la red eléctrica para seguir siendo competitivo. Usar para respaldar que
+    el zapatero, el albañil o el administrador moderno son arrastrados a
+    decisiones técnicas que nunca formaron parte de su oficio.
+
+- id: nadella-tech-intensity
+  type: speech
+  authors:
+    - family: Nadella
+      given: Satya
+  year: 2019
+  title: "Tech Intensity"
+  source: Microsoft Ignite / Microsoft Blog
+  tags: [strategy, technology, digital-transformation, build-vs-buy]
+  quote: >
+    "Every company is now a software company."
+  usage: >
+    Nadella popularizó el concepto de "Tech Intensity" (adopción + capacidad
+    de crear soluciones propias) como determinante del éxito empresarial en
+    cualquier industria. Refuerza a Andreessen con voz corporativa más reciente.
+    Úsalo como cita secundaria o en artículos sobre transformación digital
+    donde Andreessen ya fue citado.
+
 - id: christensen-innovators-dilemma
   type: book
   authors:
