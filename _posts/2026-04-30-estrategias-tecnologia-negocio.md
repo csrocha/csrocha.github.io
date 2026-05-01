@@ -19,6 +19,8 @@ references:
   - kim-phoenix-project
   - forrester-build-buy-partner
   - johnson-adjacent-possible
+  - davenport-mission-critical
+  - gartner-postmodern-erp
 ---
 
 *La idea central de este artículo es simple: Confiar la tecnología a terceros equivale a entregar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
@@ -53,7 +55,7 @@ Para entender adónde estamos debemos viajar al pasado, al menos unos 20 años. 
 
 Usar una planilla de cálculo se transformó en una de las soluciones más adoptadas, y lo que cada empresa construía con ella era su diferencial ante la competencia. Pero no tardaron en quedar cortas; quedaron aisladas de todo el proceso productivo, ventas y contabilidad.
 
-Los **ERP** se suponían que venían a solucionar muchos de los problemas con una visión integral, pero terminaron centrándose, en la práctica, en soluciones contables, perdiendo la universalidad de su ER: *Enterprise Resources*. Y es por ello que surgieron los **CRM**, y luego Websites o Carritos de Compras, Dashboards y más. No queda otro camino: lo que hay ahora en el mercado no son balas de plata, son parches que conforman **biomas aislados** en un ecosistema tecnológico cada vez más difícil de llevar. *(Cunningham, 1992)*
+Los **ERP** se suponían que venían a solucionar muchos de los problemas con una visión integral, pero terminaron centrándose, en la práctica, en soluciones contables, perdiendo la universalidad de su ER: *Enterprise Resources*. *(Davenport, 2000; Gartner, 2014)* Y es por ello que surgieron los **CRM**, y luego Websites o Carritos de Compras, Dashboards y más. No queda otro camino: lo que hay ahora en el mercado no son balas de plata, son parches que conforman **biomas aislados** en un ecosistema tecnológico cada vez más difícil de llevar. *(Cunningham, 1992)*
 
 Y terminamos en un equipo de tecnología que en principio administra ese ecosistema. Pero surgen ideas, necesidades que ningún enlatado logra satisfacer al 100% porque se trata de una integración o un pequeño cambio de paradigma en la forma de trabajar.
 
@@ -127,6 +129,8 @@ No es tiempo perdido. Es pensar un poco más lejos, pero actuando ya.
 - Kim, G., Behr, K., & Spafford, G. (2013). *The Phoenix Project*. IT Revolution Press.
 - Forrester Research. *The Build-Buy-Partner Spectrum*.
 - Cunningham, W. (1992). The WyCash Portfolio Management System. *OOPSLA '92 Experience Report*.
+- Davenport, T. H. (2000). *Mission Critical: Realizing the Promise of Enterprise Systems*. Harvard Business Press.
+- Gartner. (2014). *Postmodern ERP*.
 - Gartner. (2020). *The Future of Business is Composable*.
 - KPMG. (2023). *The potential impact of ChatGPT and the new AI on business*.
 - **Vendor Lock-in**: Situación en que el costo de cambiar de proveedor es tan alto que el cliente queda atrapado, independientemente de la calidad del servicio.

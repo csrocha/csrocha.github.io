@@ -123,6 +123,56 @@
     utilidad empresarial. Citar cuando se argumente que OpenAI no convenció al mundo
     con sus modelos hasta que publicaron la interfaz de chat.
 
+- id: davenport-mission-critical
+  type: book
+  authors:
+    - family: Davenport
+      given: Thomas H.
+  year: 2000
+  title: "Mission Critical: Realizing the Promise of Enterprise Systems"
+  publisher: Harvard Business Press
+  tags: [erp, strategy, technology, legacy, accounting, enterprise-systems]
+  usage: >
+    Davenport argumenta que los ERP imponen una "lógica administrativa" donde cada
+    transacción debe terminar en un asiento contable. Esto obliga a la empresa a
+    modelar su realidad para que encaje en el libro mayor, sacrificando la riqueza
+    de los procesos operativos no estrictamente financieros. Usar para respaldar
+    que los ERP "se centraron en soluciones contables, perdiendo la universalidad
+    de su ER: Enterprise Resources."
+
+- id: gartner-postmodern-erp
+  type: report
+  authors:
+    - family: Gartner
+  year: 2014
+  title: "Postmodern ERP"
+  publisher: Gartner
+  tags: [erp, strategy, architecture, legacy, accounting, composable]
+  usage: >
+    Gartner acuñó "Post-Modern ERP" para describir el colapso del ERP monolítico:
+    los sistemas tradicionales se convirtieron en arquitecturas de control financiero
+    tan rígidas que perdieron la capacidad de adaptarse a la universalidad de los
+    recursos empresariales (talento, datos en tiempo real, activos digitales). Usar
+    junto a Davenport (2000) para validar que el ERP priorizó el control contable
+    por sobre la agilidad operativa.
+
+- id: ciborra-control-to-drift
+  type: book
+  authors:
+    - family: Ciborra
+      given: Claudio
+  year: 2000
+  title: "From Control to Drift: The Dynamics of Corporate Information Infrastructures"
+  publisher: Oxford University Press
+  tags: [erp, organization, technology, legacy, fragmentation, infrastructure]
+  usage: >
+    Ciborra estudia cómo los ERP fallan al estandarizar organizaciones diversas.
+    Su concepto de "panóptico financiero" describe que el modelo ER de los ERP
+    jerarquiza las relaciones para el reporting financiero, relegando datos críticos
+    de producción o de clientes a segundo plano si no impactan el balance. Mejor
+    usado en artículos sobre biomas tecnológicos fragmentados y deuda técnica
+    organizacional.
+
 - id: johnson-adjacent-possible
   type: book
   authors:
