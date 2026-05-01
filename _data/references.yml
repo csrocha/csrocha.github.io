@@ -2,6 +2,56 @@
 # Accesibles en templates con: site.data.references
 # En el frontmatter de cada post declarar los ids usados: references: [id1, id2]
 
+- id: standish-chaos-report
+  type: report
+  authors:
+    - family: Standish Group
+  year: 2020
+  title: "CHAOS Report"
+  publisher: Standish Group International
+  tags: [project-management, it-management, trust, alignment, strategy]
+  usage: >
+    El estudio más longevo sobre éxito y fracaso de proyectos de software.
+    Demuestra que los proyectos no fallan por falta de código sino por ausencia
+    de "Executive Sponsorship" y madurez en la relación negocio-tecnología.
+    Usar para respaldar que el problema central no es técnico sino de confianza
+    y alineación organizacional. El reporte es anual desde 1994; citar la
+    edición más reciente o el dato específico relevante.
+
+- id: thorp-information-paradox
+  type: book
+  authors:
+    - family: Thorp
+      given: John
+  year: 1998
+  title: "The Information Paradox: Realizing the Business Benefits of Information Technology"
+  publisher: McGraw-Hill Ryerson
+  tags: [it-management, trust, alignment, strategy, governance]
+  usage: >
+    Thorp describe el "Círculo de Desconfianza": el negocio no entiende la
+    tecnología → no confía en las estimaciones de IT → impone plazos arbitrarios
+    → IT entrega software de mala calidad → la confianza se rompe aún más.
+    Usar cuando se afirme que el mayor problema de tener un equipo de tecnología
+    no es el reclutamiento sino la confianza mutua.
+
+- id: weill-it-governance
+  type: book
+  authors:
+    - family: Weill
+      given: Peter
+    - family: Ross
+      given: Jeanne W.
+  year: 2004
+  title: "IT Governance: How Top Performers Manage IT Decision Rights for Superior Results"
+  publisher: Harvard Business Press
+  tags: [it-management, governance, trust, strategy, organization]
+  usage: >
+    Weill (MIT) sostiene que la confianza se pierde cuando los directivos ven
+    la tecnología como una "caja negra". Cuando el CEO no entiende el software,
+    lo gestiona desde el miedo, convirtiendo a IT en "gasto a reducir" en lugar
+    de "socio a potenciar". Mejor para artículos sobre gobernanza de IT y
+    estructura organizacional que para artículos de estrategia build-vs-buy.
+
 - id: andreessen-software-eating-world
   type: article
   authors:
