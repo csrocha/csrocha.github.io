@@ -2,6 +2,56 @@
 # Accesibles en templates con: site.data.references
 # En el frontmatter de cada post declarar los ids usados: references: [id1, id2]
 
+- id: parkinson-law
+  type: article
+  authors:
+    - family: Parkinson
+      given: Cyril Northcote
+  year: 1955
+  title: "Parkinson's Law"
+  source: The Economist
+  tags: [productivity, organization, management, efficiency]
+  quote: >
+    "Work expands so as to fill the time available for its completion."
+  usage: >
+    La Ley de Parkinson: el trabajo se expande hasta llenar el tiempo disponible.
+    Corolario: al reducir el tiempo, el empleado elimina lo superfluo y se enfoca
+    en el valor real. Usar para validar que trabajar menos horas no es improductivo
+    sino que fuerza la eficiencia real.
+
+- id: barnes-4-day-week
+  type: book
+  authors:
+    - family: Barnes
+      given: Andrew
+  year: 2020
+  title: "The 4 Day Week: How the Flexible Work Revolution Can Increase Productivity, Profitability and Well-being"
+  publisher: Piatkus
+  tags: [productivity, management, work-life-balance, efficiency, organization]
+  usage: >
+    Barnes implementó el modelo 100-80-100 (100% salario, 80% tiempo, 100%
+    productividad). Sus estudios demuestran que con menos tiempo, los empleados
+    optimizan flujos de forma autónoma y el tiempo que trabajan es de mayor
+    intensidad y creatividad. Usar como evidencia empírica para respaldar que
+    trabajar menos no implica producir menos.
+
+- id: demarco-slack
+  type: book
+  authors:
+    - family: DeMarco
+      given: Tom
+  year: 2001
+  title: "Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency"
+  publisher: Broadway Books
+  tags: [productivity, management, innovation, efficiency, organization, software]
+  quote: >
+    "An organization that is always fully utilized cannot innovate."
+  usage: >
+    DeMarco argumenta que el "slack" — tiempo no asignado a producción directa —
+    es lo que permite el rediseño y la optimización. Una organización al 100% de
+    capacidad no puede cambiar de dirección ni mejorar sus sistemas. Usar para
+    respaldar que automatizar libera tiempo para innovar, no para "vagar".
+
 - id: standish-chaos-report
   type: report
   authors:

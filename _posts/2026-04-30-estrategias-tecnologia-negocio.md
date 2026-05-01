@@ -24,6 +24,9 @@ references:
   - carr-big-switch
   - standish-chaos-report
   - thorp-information-paradox
+  - parkinson-law
+  - barnes-4-day-week
+  - demarco-slack
 ---
 
 *La idea central de este artículo es simple: Confiar la tecnología a terceros equivale a entregar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
@@ -64,7 +67,7 @@ Y terminamos en un equipo de tecnología que en principio administra ese ecosist
 
 La solución en esos casos es un desarrollo, y aquí viene el dilema que nos compete: ¿lo implementa el equipo que contratamos o tercerizamos? Mi respuesta es clara: hay que delegar la responsabilidad al equipo de tecnología. Las razones son varias, pero esto va a depender de si se está listo para dar un paso al frente en el desarrollo in-house, un camino lleno de crisis y aprendizajes que, desde mi punto de vista, vale la pena transitar.
 
-No importa que seas una entidad sin fines de lucro, una cooperativa, una pequeña o mediana empresa: si se quiere dar un salto siempre te vas a encontrar con que la automatización de procesos, la comunicación interna y la exposición al público están condicionadas a la tecnología. El hecho de que los empleados trabajen menos, por el mismo sueldo, no implica ser menos productivos — es ser al menos igual de productivos y acceder a tiempos de rediseño y optimización que no puede conseguirse manteniendo los procesos tal como estaban hace varios años.
+No importa que seas una entidad sin fines de lucro, una cooperativa, una pequeña o mediana empresa: si se quiere dar un salto siempre te vas a encontrar con que la automatización de procesos, la comunicación interna y la exposición al público están condicionadas a la tecnología. El hecho de que los empleados trabajen menos, por el mismo sueldo, no implica ser menos productivos — es ser al menos igual de productivos *(Barnes, 2020; Parkinson, 1955)* y acceder a tiempos de rediseño y optimización que no puede conseguirse manteniendo los procesos tal como estaban hace varios años. *(DeMarco, 2001)*
 
 ## Externalización vs ad-hoc vs in-house
 
@@ -134,7 +137,10 @@ No es tiempo perdido. Es pensar un poco más lejos, pero actuando ya.
 - Johnson, S. (2010). *Where Good Ideas Come From: The Natural History of Innovation*. Riverhead Books.
 - Conway, M. E. (1968). How Do Committees Invent? *Datamation*, 14(4), 28–31.
 - Kim, G., Behr, K., & Spafford, G. (2013). *The Phoenix Project*. IT Revolution Press.
+- Barnes, A. (2020). *The 4 Day Week*. Piatkus.
+- DeMarco, T. (2001). *Slack: Getting Past Burnout, Busywork, and the Myth of Total Efficiency*. Broadway Books.
 - Forrester Research. *The Build-Buy-Partner Spectrum*.
+- Parkinson, C. N. (1955). Parkinson's Law. *The Economist*.
 - Cunningham, W. (1992). The WyCash Portfolio Management System. *OOPSLA '92 Experience Report*.
 - Davenport, T. H. (2000). *Mission Critical: Realizing the Promise of Enterprise Systems*. Harvard Business Press.
 - Gartner. (2014). *Postmodern ERP*.
