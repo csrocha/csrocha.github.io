@@ -15,7 +15,6 @@ references:
   - shadow-it
   - gartner-composable-business
   - kpmg-chatgpt-impact-2023
-  - conway-committees
   - kim-phoenix-project
   - forrester-build-buy-partner
   - johnson-adjacent-possible
@@ -85,7 +84,7 @@ También se puede ir en búsqueda de un punto intermedio, algo que no obligue a 
 
 Otra dimensión a tener en cuenta es dónde se aplica este enfoque, porque puede ocurrir que en diferentes departamentos los directivos tengan visiones distintas y adopten modelos diferentes. Esa convivencia de visiones dentro de una misma empresa tiene un resultado que merece su propio análisis: genera ecosistemas tecnológicos fragmentados, con biomas que crecen sin comunicarse *(Conway, 1968)*. Eso es materia del próximo artículo.
 
-## Caer en un rio lleno de rocas
+## Caer en un río lleno de rocas
 
 La industria del software arrastra prejuicios que tienen nombre propio: gente difícil de tratar, tiempos que se estiran, costos difíciles de justificar. Nacieron de malas experiencias reales — muchas de hace 20 años — y todavía pesan en cada conversación comercial.
 
