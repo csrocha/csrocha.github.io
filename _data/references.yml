@@ -1,0 +1,125 @@
+# Referencias reutilizables para artículos del blog.
+# Accesibles en templates con: site.data.references
+# En el frontmatter de cada post declarar los ids usados: references: [id1, id2]
+
+- id: christensen-innovators-dilemma
+  type: book
+  authors:
+    - family: Christensen
+      given: Clayton M.
+  year: 1997
+  title: "The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail"
+  publisher: Harvard Business School Press
+  tags: [innovation, strategy, technology, disruption]
+  usage: >
+    Argumentar que comprar software estandarizado nivela con la competencia (el promedio),
+    mientras que construir in-house es lo que habilita el diferencial de mercado y la disrupción.
+
+- id: kim-phoenix-project
+  type: book
+  authors:
+    - family: Kim
+      given: Gene
+    - family: Behr
+      given: Kevin
+    - family: Spafford
+      given: George
+  year: 2013
+  title: "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+  publisher: IT Revolution Press
+  tags: [devops, it-management, strategy, business]
+  usage: >
+    Ilustrar que IT no es un departamento aislado de soporte, sino el núcleo operativo
+    del negocio. Apoya la tesis de que la tecnología es el sistema nervioso de la empresa.
+
+- id: conway-committees
+  type: article
+  authors:
+    - family: Conway
+      given: Melvin E.
+  year: 1968
+  title: "How Do Committees Invent?"
+  source: Datamation
+  volume: 14
+  issue: 4
+  pages: 28–31
+  tags: [software-architecture, organization, technology, build-vs-buy]
+  usage: >
+    Citar la Ley de Conway para explicar que una empresa ágil necesita software construido
+    ágilmente. Comprar software rígido impone rigidez organizacional.
+
+- id: cunningham-technical-debt
+  type: conference
+  authors:
+    - family: Cunningham
+      given: Ward
+  year: 1992
+  title: "The WyCash Portfolio Management System"
+  source: "OOPSLA '92 Experience Report"
+  tags: [technical-debt, software, architecture, legacy]
+  usage: >
+    Origen del término "Deuda Técnica". Úsalo para explicar que los biomas aislados,
+    planillas desconectadas y parches acumulados son una deuda con intereses crecientes.
+
+- id: gartner-composable-business
+  type: report
+  authors:
+    - family: Gartner
+  year: 2020
+  title: "The Future of Business is Composable"
+  publisher: Gartner
+  tags: [strategy, architecture, apis, composable, build-vs-buy]
+  usage: >
+    Marco corporativo que valida la idea de construir con APIs y módulos intercambiables
+    en lugar de comprar monolitos. Las empresas resilientes se arman con bloques que
+    pueden cambiarse sin romper el sistema.
+
+- id: forrester-build-buy-partner
+  type: framework
+  authors:
+    - family: Forrester Research
+  title: "The Build-Buy-Partner Spectrum"
+  tags: [strategy, build-vs-buy, technology, sourcing]
+  usage: >
+    Reemplaza el debate binario construir/comprar por un modelo híbrido: comprar los
+    commodities (infraestructura, nube, pagos) para poder construir lo que es único
+    (la lógica de negocio propia).
+
+- id: vendor-lock-in
+  type: concept
+  title: "Vendor Lock-in"
+  tags: [technology, strategy, risk, build-vs-buy, sourcing]
+  definition: >
+    Situación en la que el costo —económico, técnico u operativo— de cambiar de proveedor
+    es tan alto que el cliente queda atrapado, independientemente de la calidad del servicio.
+  usage: >
+    "El software propietario cerrado es una cárcel donde el alquiler sube cada año
+    y no puedes derribar las paredes para ampliar la casa."
+
+- id: shadow-it
+  type: concept
+  title: "Shadow IT"
+  tags: [technology, organization, it-management, symptoms]
+  definition: >
+    Uso de sistemas, dispositivos, software y aplicaciones dentro de una organización
+    sin la aprobación explícita del departamento de TI (por ejemplo: Excel masivo,
+    Trello personal, Zapier sin control).
+  usage: >
+    No demonizarlo: presentarlo como un síntoma. "El Shadow IT es la prueba de que
+    el equipo necesita herramientas ágiles que la empresa no le está dando de forma oficial."
+
+- id: dimon-jpmorgan-letter-2022
+  type: letter
+  authors:
+    - family: Dimon
+      given: Jamie
+  year: 2022
+  title: "Annual Letter to Shareholders"
+  publisher: JPMorgan Chase & Co.
+  tags: [case-study, strategy, build-vs-buy, fintech, technology-investment]
+  usage: >
+    Jamie Dimon defiende una inversión de más de $12 mil millones anuales en tecnología
+    propia para no delegar el futuro a terceros. Reemplazaron sistemas heredados de vendor
+    por plataformas propias en la nube para competir con las Fintech. Argumento: si un
+    banco gigante entiende que debe ser una empresa de tecnología, una PyME no puede
+    darse el lujo de delegar sus reglas de negocio a un software genérico.
