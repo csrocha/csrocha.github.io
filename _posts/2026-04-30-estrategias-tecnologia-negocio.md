@@ -14,6 +14,11 @@ references:
   - vendor-lock-in
   - shadow-it
   - gartner-composable-business
+  - kpmg-chatgpt-impact-2023
+  - conway-committees
+  - kim-phoenix-project
+  - forrester-build-buy-partner
+  - johnson-adjacent-possible
 ---
 
 *La idea central de este artículo es simple: Confiar la tecnología a terceros equivale a entregar parte del negocio. ¿Estás seguro de lo que estás haciendo?*
@@ -26,7 +31,7 @@ Voy a comenzar por dos estrategias bien definidas en un emprendimiento, empresa,
 
 En el mundo del software *comprar* implica varias formas de contratos: *licenciado* — un pago y adueñarse de una copia —, como *servicio* — pagos mensuales fijos y contratos de confidencialidad y uso -, o *código libre* — podés hacer lo que quieras con él, pero cero responsabilidad para el desarrollador —. 
 
-Y la tendencia actual es clara en la industria, se deja de lado el único pago y se busca garantizar un flujo mensual. Esto no es un resultado únicamente económico, sino que es la evolución de años de versiones, actualizaciones, compromisos de calidad y mantenimientos difíciles de satisfacer. Las empresas de software ya no quieren arriesgar, y lo mismo ocurre con sus clientes.
+Y la tendencia actual es clara en la industria, se deja de lado el único pago y se busca garantizar un flujo mensual. *(Forrester Research)* Esto no es un resultado únicamente económico, sino que es la evolución de años de versiones, actualizaciones, compromisos de calidad y mantenimientos difíciles de satisfacer. Las empresas de software ya no quieren arriesgar, y lo mismo ocurre con sus clientes.
 
 Y *construir* no significa escapar de comprar; pero permite huir de una cárcel de funcionalidades predeterminadas *(Vendor Lock-in)* y acceder a capacidades y recursos que resultan inimaginables si no hay un *equipo de desarrollo* **in-house** capaz de orquestarlo. El software libre, las APIs y las soluciones serverless lo hacen posible y son parte de la "navaja suiza" de la nueva era. *(Christensen, 1997)*
 
@@ -36,7 +41,7 @@ Cada día se lanzan nuevas propuestas en el mercado orientadas a las necesidades
 
 Mailchimp gestiona listas de suscriptores junto a su servicio de envío masivo. Salesforce integra la bandeja de entrada con el seguimiento de clientes, pero no se especializa en campañas de email masivo.
 
-Y así podemos listar miles de herramientas. Un ejemplo claro es OpenAI, que no logró convencer a nadie sobre el uso de sus modelos de lenguaje hasta que publicaron ChatGPT. Pero integrar todo eso depende de una parte del negocio que el proveedor no considera su fuerte. Si se quiere aprovechar al 100% sus virtudes, se necesita alguien capaz de entender esas tecnologías para integrarlas: un equipo que sepa construir la herramienta perfecta a partir de esas piezas de LEGO.
+Y así podemos listar miles de herramientas. Un ejemplo claro es OpenAI, que no logró convencer a nadie sobre el uso de sus modelos de lenguaje hasta que publicaron ChatGPT *(KPMG, 2023)*. Pero integrar todo eso depende de una parte del negocio que el proveedor no considera su fuerte. Si se quiere aprovechar al 100% sus virtudes, se necesita alguien capaz de entender esas tecnologías para integrarlas: un equipo que sepa construir la herramienta perfecta a partir de esas piezas de LEGO.
 
 ## Volviendo al futuro
 
@@ -48,7 +53,7 @@ Para entender adónde estamos debemos viajar al pasado, al menos unos 20 años. 
 
 Usar una planilla de cálculo se transformó en una de las soluciones más adoptadas, y lo que cada empresa construía con ella era su diferencial ante la competencia. Pero no tardaron en quedar cortas; quedaron aisladas de todo el proceso productivo, ventas y contabilidad.
 
-Los **ERP** se suponían que venían a solucionar muchos de los problemas con una visión integral, pero suelen centrarse en soluciones contables, perdiendo la universalidad de su ER: *Enterprise Resources*. Y es por ello que surgieron los **CRM**, y luego Websites o Carritos de Compras, Dashboards y más. No queda otro camino: lo que hay ahora en el mercado no son balas de plata, son parches que conforman **biomas aislados** en un ecosistema tecnológico cada vez más difícil de llevar. *(Cunningham, 1992)*
+Los **ERP** se suponían que venían a solucionar muchos de los problemas con una visión integral, pero terminaron centrándose, en la práctica, en soluciones contables, perdiendo la universalidad de su ER: *Enterprise Resources*. Y es por ello que surgieron los **CRM**, y luego Websites o Carritos de Compras, Dashboards y más. No queda otro camino: lo que hay ahora en el mercado no son balas de plata, son parches que conforman **biomas aislados** en un ecosistema tecnológico cada vez más difícil de llevar. *(Cunningham, 1992)*
 
 Y terminamos en un equipo de tecnología que en principio administra ese ecosistema. Pero surgen ideas, necesidades que ningún enlatado logra satisfacer al 100% porque se trata de una integración o un pequeño cambio de paradigma en la forma de trabajar.
 
@@ -64,7 +69,7 @@ El problema es que ni siquiera los que están adentro siempre pueden explicarlo.
 
 Y hay un tercer nivel, más profundo todavía: entender un problema no es lo mismo que conocerlo en profundidad. Para automatizar un proceso no alcanza con comprenderlo a grandes rasgos — hay que sumergirse hasta el fondo, hasta donde están las excepciones, los casos raros, las decisiones que se toman casi sin pensar porque "siempre se hizo así". Ese nivel de profundidad no se alcanza en una reunión de relevamiento. Se alcanza de dos formas: con una capacidad analítica excepcional, o a los golpes.
 
-De ahí viene una ventaja que se subestima constantemente: una persona de tecnología dentro de la empresa — aunque sea una sola, aunque sea junior — que lleva seis meses trabajando codo a codo con los equipos, tiene más chances de encontrar la solución correcta que cualquier consultor externo. No porque sea más inteligente, sino porque acumuló algo que no se puede comprar: **contexto**.
+De ahí viene una ventaja que se subestima constantemente: una persona de tecnología dentro de la empresa — aunque sea una sola, aunque sea junior — que lleva seis meses trabajando codo a codo con los equipos, tiene más chances de encontrar la solución correcta que cualquier consultor externo. No porque sea más inteligente, sino porque acumuló algo que no se puede comprar: **contexto**. *(Kim et al., 2013)*
 
 Sabe por qué se hace lo que se hace, conoce las excepciones que nunca están en ningún documento, y puede adaptar tanto la solución al negocio como el negocio a la solución. Esa doble capacidad de adaptación es el primer valor del equipo interno.
 
@@ -74,9 +79,9 @@ Del otro lado están quienes se atreven a construir su propia planilla de cálcu
 
 De aquí surge un abanico de soluciones donde en el otro extremo aparecen las personalizaciones, ya sea porque el proveedor está dispuesto a modificar su herramienta, o porque hay un core diseñado para modificarse y así llegar a la personalización por medio de la consultoría.
 
-También se puede ir en búsqueda de un punto intermedio, algo que no obligue a modificar los flujos y planes existentes. Si se terceriza la tecnología con una visión de negocio propia, se busca adaptar el software al negocio, y eso es un desarrollo **ad-hoc**. El proceso va a ser más largo que un desarrollo in-house. Y si lo que se quiere hacer es algo novedoso - lamento decir que muy pocas soluciones son novedosas, excepto que se esté en los límites de la tecnología -, eso solo se puede hacer si el desarrollo es in-house.
+También se puede ir en búsqueda de un punto intermedio, algo que no obligue a modificar los flujos y planes existentes. Si se terceriza la tecnología con una visión de negocio propia, se busca adaptar el software al negocio, y eso es un desarrollo **ad-hoc**. El proceso va a ser más largo que un desarrollo in-house. Y si lo que se quiere hacer es algo novedoso - lamento decir que muy pocas soluciones son novedosas, excepto que se esté en los límites de la tecnología *(Christensen, 1997; Johnson, 2010)* -, eso solo se puede hacer si el desarrollo es in-house. *(Forrester Research)*
 
-Otra dimensión a tener en cuenta es dónde se aplica este enfoque, porque puede ocurrir que en diferentes departamentos los directivos tengan visiones distintas y adopten modelos diferentes. Esa convivencia de visiones dentro de una misma empresa tiene un resultado que merece su propio análisis: genera ecosistemas tecnológicos fragmentados, con biomas que crecen sin comunicarse. Eso es materia del próximo artículo.
+Otra dimensión a tener en cuenta es dónde se aplica este enfoque, porque puede ocurrir que en diferentes departamentos los directivos tengan visiones distintas y adopten modelos diferentes. Esa convivencia de visiones dentro de una misma empresa tiene un resultado que merece su propio análisis: genera ecosistemas tecnológicos fragmentados, con biomas que crecen sin comunicarse *(Conway, 1968)*. Eso es materia del próximo artículo.
 
 ## Caer en un rio lleno de rocas
 
@@ -90,7 +95,7 @@ De mis experiencias, que puedo contar con los dedos de una mano, solo dos fueron
 
 ## Conclusión
 
-No hay una respuesta universal entre comprar y construir. Hay una que es correcta para cada empresa en cada momento. Lo que sí es universal: no tomar esa decisión conscientemente es la peor decisión posible. El dueño que cede la tecnología sin entender qué entrega, pierde también parte del control de su negocio. La tecnología no es el departamento de sistemas — es el sistema nervioso de la empresa.
+No hay una respuesta universal entre comprar y construir. Hay una que es correcta para cada empresa en cada momento. Lo que sí es universal: no tomar esa decisión conscientemente es la peor decisión posible. El dueño que cede la tecnología sin entender qué entrega, pierde también parte del control de su negocio. La tecnología no es el departamento de sistemas — es el sistema nervioso de la empresa. *(Kim et al., 2013)*
 
 ---
 
@@ -117,8 +122,12 @@ No es tiempo perdido. Es pensar un poco más lejos, pero actuando ya.
 ## Referencias y lecturas recomendadas
 
 - Christensen, C. M. (1997). *The Innovator's Dilemma*. Harvard Business School Press.
+- Johnson, S. (2010). *Where Good Ideas Come From: The Natural History of Innovation*. Riverhead Books.
 - Conway, M. E. (1968). How Do Committees Invent? *Datamation*, 14(4), 28–31.
+- Kim, G., Behr, K., & Spafford, G. (2013). *The Phoenix Project*. IT Revolution Press.
+- Forrester Research. *The Build-Buy-Partner Spectrum*.
 - Cunningham, W. (1992). The WyCash Portfolio Management System. *OOPSLA '92 Experience Report*.
 - Gartner. (2020). *The Future of Business is Composable*.
+- KPMG. (2023). *The potential impact of ChatGPT and the new AI on business*.
 - **Vendor Lock-in**: Situación en que el costo de cambiar de proveedor es tan alto que el cliente queda atrapado, independientemente de la calidad del servicio.
 - **Shadow IT**: Uso de sistemas sin aprobación explícita del departamento de TI — síntoma de que el equipo necesita herramientas ágiles que la empresa no provee de forma oficial.

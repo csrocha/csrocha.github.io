@@ -108,6 +108,41 @@
     No demonizarlo: presentarlo como un síntoma. "El Shadow IT es la prueba de que
     el equipo necesita herramientas ágiles que la empresa no le está dando de forma oficial."
 
+- id: kpmg-chatgpt-impact-2023
+  type: report
+  authors:
+    - family: KPMG
+  year: 2023
+  title: "The potential impact of ChatGPT and the new AI on business"
+  publisher: KPMG
+  tags: [ai, chatgpt, tipping-point, llm, technology-adoption]
+  usage: >
+    Valida que ChatGPT fue el "punto de inflexión en la imaginación popular" tras años
+    de modelos de lenguaje (GPT-3, 2020) conocidos solo por investigadores. Antes de
+    noviembre de 2022, los LLM no lograban tracción masiva ni comprensión clara de su
+    utilidad empresarial. Citar cuando se argumente que OpenAI no convenció al mundo
+    con sus modelos hasta que publicaron la interfaz de chat.
+
+- id: johnson-adjacent-possible
+  type: book
+  authors:
+    - family: Johnson
+      given: Steven
+  year: 2010
+  title: "Where Good Ideas Come From: The Natural History of Innovation"
+  publisher: Riverhead Books
+  tags: [innovation, strategy, technology, adjacent-possible, build-vs-buy]
+  quote: >
+    "La innovación es un rompecabezas de piezas que ya están sobre la mesa.
+    Solo en los límites de ese mapa podemos encontrar una pieza nueva."
+  usage: >
+    El concepto de "lo posible adyacente" (originado en Stuart Kauffman, popularizado
+    por Johnson) explica que la innovación genuina solo ocurre en la frontera de lo que
+    ya existe: no podés inventar la computadora en la Edad Media porque no tenés las piezas.
+    Usar cuando se argumente que "muy pocas soluciones son novedosas, excepto que se esté
+    en los límites de la tecnología" — la novedad real exige estar parado en el borde del
+    mapa actual, no en el centro.
+
 - id: dimon-jpmorgan-letter-2022
   type: letter
   authors:
