@@ -30,3 +30,22 @@ Cuando analices un archivo en `_drafts`:
 2. Ejecuta el checklist.
 3. Propone cambios específicos línea por línea para los puntos no cumplidos.
 4. Sugiere 3 títulos alternativos que sean atractivos pero profesionales.
+
+## Pautas de Redacción y Estilo (Español)
+
+### 🚫 Prohibiciones Críticas
+- **Eco Léxico:** No repetir palabras clave en el mismo párrafo. Usa sinónimos o reestructura la frase.
+- **Adjetivación Vacía:** Elimina palabras como "increíble", "fascinante" o "revolucionario". La autoridad del texto debe venir de los hechos, no de los adjetivos.
+- **Gerundio de Posterioridad:** No uses gerundios para acciones que ocurren después del verbo principal.
+
+### ✅ Mandatos de Estilo
+- **Precisión Verbal:** Sustituye verbos genéricos (hacer, tener, poner) por verbos técnicos específicos (configurar, integrar, desplegar, disponer).
+- **Ritmo de Lectura:** Alterna oraciones cortas con oraciones de longitud media. Evita párrafos que sean una sola oración larga.
+- **Puntuación:** Usa el punto y seguido con frecuencia. El blog debe ser fácil de leer en pantallas de tinta electrónica (alto contraste, poco scroll).
+- **Voz Activa:** Prioriza siempre "El equipo de Odoo implementó..." sobre "Fue implementado por el equipo de Odoo...".
+
+### 🇦🇷 Estilo y Tono Regional (Argentina Profesional)
+- **Voseo Culto:** Dirigite al lector usando el "vos" de forma natural, pero evitá el uso de "che", "viste" o términos informales (lunfardo). El tono debe ser el de un profesional senior compartiendo café con un colega.
+- **Naturalidad Técnica:** Preferí terminología técnica estándar en Argentina. Evitá el español neutro de doblaje (ej. usá "entrar" en lugar de "ingresar" si suena más directo, o "gestión" en lugar de "gerenciamiento").
+- **Sobriedad y Pragmatismo:** El estilo debe ser directo y al hueso. Si algo no funciona, decilo claramente. La autoridad se construye con honestidad técnica, no con decoro excesivo.
+- **Uso de "Nosotros":** Involucrá al lector en el proceso de pensamiento (ej. "Cuando analizamos la arquitectura de Odoo, nos encontramos con...").
