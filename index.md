@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Soy Cristian, Computador Científico que decidió dejar el doctorado para encarar proyectos propios. No fue una búsqueda de mejor pasar — fue un impulso real: el enorme gap entre ciencia e industria que sufre Argentina.
+Soy Cristian, Computador Científico que decidió dejar el doctorado para encarar proyectos propios. No fue una búsqueda de mejor pasar — fue un impulso real a un diagnóstico constante del ámbito académico: el enorme gap entre ciencia e industria que sufre Argentina.
 
 Lo que escribo son lecturas que yo hubiera querido tener. De alguien cercano, que habla el mismo idioma y conoce lo que cuesta hacer tecnología en Argentina. No soy el gurú de un país con buenos ingresos compartiendo fórmulas desde la comodidad — soy alguien que estuvo en la trinchera, con el rifle mojado, resolviendo problemas reales con lo que había.
 
