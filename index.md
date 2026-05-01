@@ -6,7 +6,7 @@ Soy Cristian, Computador Científico que decidió dejar el doctorado para encara
 
 Lo que escribo son lecturas que yo hubiera querido tener. De alguien cercano, que habla el mismo idioma y conoce lo que cuesta hacer tecnología en Argentina. No soy el gurú de un país con buenos ingresos compartiendo fórmulas desde la comodidad — soy alguien que estuvo en la trinchera, con el rifle mojado, resolviendo problemas reales con lo que había.
 
-Soy padre de dos hijos enchufados a la nueva era de la IA, e hijo de una madre de 93 años que fue una de las primeras programadoras del país. Creo haber vivido y escuchado de cerca toda la historia de la informática argentina.
+Soy padre de dos hijos enchufados a la nueva era de la IA, e hijo de una madre de 93 años que fue una de las primeras programadoras del país. También alumno de eminencias y compañero de científicos influyentes. Creo haber vivido y escuchado de cerca toda la historia de la informática argentina.
 
 Por eso escribo: para buscar equilibrio en un mundo de absolutos. No le escapo a las posturas firmes, porque de ahí nacen las discusiones que se transforman en las ideas que nos guiarán al cambio que necesitamos. Y si esto te resulta útil, un café es la forma más honesta de decirme que vale la pena seguir.
 
